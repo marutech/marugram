@@ -26,7 +26,13 @@ const Modal = ({ setSelectedImg, selectedStorie }) => {
           <motion.img src={selectedStorie.imgUrl} alt="enlarged pic" initial={{ y: "-100vh" }} animate={{ y: 0 }} />
         ) : (
           <div onClick={onPlayStop} className={`storie__video ${isPaused ? "storie__video_paused" : ""}`}>
-            <motion.video loop ref={videoRef} src={selectedStorie.videoUrl}></motion.video>
+            <motion.video
+              loop
+              ref={videoRef}
+              src={selectedStorie.videoUrl}
+              initial={{ y: "-100vh" }}
+              animate={{ y: 0 }}
+            />
           </div>
         )}
         <span
