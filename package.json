@@ -1,0 +1,44 @@
+{
+  "name": "maru-gram",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "firebase": "^7.24.0",
+    "framer-motion": "^2.1.2",
+    "git": "^0.1.5",
+    "install": "^0.13.0",
+    "npm": "^8.13.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-insta-stories": "^2.4.2",
+    "react-lorem-ipsum": "^1.4.10",
+    "react-router-dom": "5.0.1",
+    "react-scripts": "3.4.1",
+    "styled-components": "^5.3.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "main": "dist/index.js"
+}
