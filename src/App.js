@@ -1,9 +1,14 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { NewTitle, ReactStories, UploadBtns, ImageGrid, Modal, Header } from "./comps";
 
 function App() {
   const [selectedStorie, setSelectedStorie] = useState(null);
   const [isStoriesOpen, setIsStoriesOpen] = useState(false);
+
+  useEffect(() => {
+    document.body.style.height = !!selectedStorie ? "100%" : "";
+    document.body.style.overflow = !!selectedStorie ? "hidden" : "";
+  }, [selectedStorie]);
 
   return (
     <>

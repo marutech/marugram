@@ -14,7 +14,6 @@ const Modal = ({ setSelectedImg, selectedStorie }) => {
   const videoRef = useRef(null);
 
   const onPlayStop = () => {
-    console.log(videoRef.current);
     setIsPaused(!isPaused);
     isPaused ? videoRef.current.play() : videoRef.current.pause();
   };
