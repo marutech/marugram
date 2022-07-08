@@ -14,7 +14,7 @@ function App() {
           <Header />
           <div className="app__container">
             <NewTitle onAvatarClick={() => setIsStoriesOpen(true)} />
-            { <UploadBtns /> }
+            {/* <UploadBtns /> */}
             <ImageGrid setSelectedImg={setSelectedStorie} />
             {selectedStorie && <Modal selectedStorie={selectedStorie} setSelectedImg={setSelectedStorie} />}
           </div>

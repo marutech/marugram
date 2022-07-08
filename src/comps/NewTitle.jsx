@@ -10,7 +10,7 @@ const NewTitle = ({ onAvatarClick }) => {
       <div className="info__layout">
         <div className="info__logo-wrapper">
           <div className="logo__pic-bg-circle">
-            <div className="logo__pic" onClick={onAvatarClick} style={{ backgroundImage: `url(${avUrl})` }} />
+            <div className="logo__pic" /* onClick={onAvatarClick} */style={{ backgroundImage: `url(${avUrl})` }} />
           </div>
         </div>
         <div className="info__title-wrapper">
