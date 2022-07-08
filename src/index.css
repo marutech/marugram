@@ -154,6 +154,11 @@ label:hover {
   border: 3px solid white;
 }
 
+@media (max-width: 640px) {
+  .modal__content {
+    max-width: 80vw;
+  }
+}
 .modal__content p {
   color: #9d9ca1;
   font-size: 20px;

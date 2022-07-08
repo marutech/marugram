@@ -6,3 +6,4 @@ export { default as ImageGrid } from "./ImageGrid";
 export { default as Modal } from "./Modal";
 export { default as ContactBtn } from "./ContactBtn";
 export { default as Header } from "./Header";
+export { default as CloseBtn } from "./CloseBtn";

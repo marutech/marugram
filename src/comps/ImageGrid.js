@@ -1,12 +1,10 @@
 import React from "react";
 import useFirestore from "../hooks/useFirestore";
 import { motion } from "framer-motion";
-import {storiesArray} from '../fixtures/storiesArray'
+import { storiesArray } from "../fixtures/storiesArray";
 
 const ImageGrid = ({ setSelectedImg }) => {
   const { docs } = useFirestore("images");
-  console.log('docs', docs);
-     console.log('storiesArray', storiesArray);
   return (
     <div className="img-grid">
       {storiesArray &&
