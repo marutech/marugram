@@ -145,6 +145,7 @@ label:hover {
   justify-content: center; */
   /* text-align: center; */
   /* scrollbar-width: none; */
+  /* position: relative; */
   margin: 60px auto 0 auto;
   flex-direction: column;
   overflow-y: auto;
@@ -177,9 +178,37 @@ label:hover {
   border-radius: 5px;
 }
 
-.storie__content {
+.storie__text {
   color: #9d9ca1;
   font-size: 20px;
   line-height: 28px;
   margin: 20px 0;
+}
+
+.storie__video {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.storie__video video {
+  width: 100%;
+}
+
+.storie__video_paused::before {
+  width: 160px;
+  height: 160px;
+  background-image: url("./images/play-icon-white-png.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  content: "";
+  position: absolute;
+  top: calc(50% - 80px);
+  left: calc(50% - 80px);
+  z-index: 999;
+  transition: 0.7s ease;
+  /* color: white; */
+  /* font-size: 96px; */
+  /* box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2); */
 }
