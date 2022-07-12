@@ -2,7 +2,7 @@ export const storiesArray = [
   {
     imgUrl: "https://media.giphy.com/media/tzXoUCXglmNHbqCR05/giphy.gif",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/273812953_925775418126684_4866356293399671940_n.mp4?alt=media&token=fbfbba5e-08a6-462e-bdb7-1cba059cfd3b",
+      "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/292257834_2319425031546625_3515026013636582616_n.mp4?alt=media&token=81366cb5-975c-4092-9f02-ba3c5c46fb86",
     storieText: "Видео носит чисто юмористический характер 😂 просто от работы хочется отвлечься",
     id: "1",
     type: "video",
