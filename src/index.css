@@ -99,7 +99,7 @@ label:hover {
   margin: 40px auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 40px;
+  grid-gap: 10px; /* changed from 40px to 10px */
 }
 .img-wrap {
   overflow: hidden;
