@@ -1,6 +1,6 @@
 export const storiesArray = [
   {
-    imgUrl: "https://media.giphy.com/media/tzXoUCXglmNHbqCR05/giphy.gif",
+    imgUrl: "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-07-13%20%D0%B2%2017.22.51.png?alt=media&token=cf4e329b-6d58-4649-9f8a-7675ec566189",
     videoUrl:
       "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/292257834_2319425031546625_3515026013636582616_n.mp4?alt=media&token=81366cb5-975c-4092-9f02-ba3c5c46fb86",
     storieText: "Видео носит чисто юмористический характер 😂 просто от работы хочется отвлечься",
@@ -8,7 +8,7 @@ export const storiesArray = [
     type: "video",
   },
   {
-    imgUrl: "https://media.giphy.com/media/bykAkqcmQuDviioSc2/giphy.gif",
+    imgUrl: "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-07-13%20%D0%B2%2016.28.10.png?alt=media&token=90fd2dfd-dd17-4e3a-8684-286f666b734d",
     videoUrl:
         "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/290980663_756970012307863_7484683180314509817_n.mp4?alt=media&token=b28822e1-8796-4cab-85cd-b55469c10e45",
     storieText: "Просто женщина каждое утро 😂",
@@ -16,7 +16,7 @@ export const storiesArray = [
     type: "video",
   },
   {
-    imgUrl: "https://media.giphy.com/media/WpcSwmd8O5Sy7Q5Ng9/giphy.gif",
+    imgUrl: "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-07-13%20%D0%B2%2016.27.56.png?alt=media&token=70a330d0-90f4-4984-a853-0e34e900c785",
     videoUrl:
         "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/290245981_370753998493358_138760837403029861_n.mp4?alt=media&token=ba6438d6-2cc1-4bf3-ae6b-f862656bd760",
     storieText:
@@ -27,7 +27,7 @@ export const storiesArray = [
     type: "video",
   },
   {
-    imgUrl: "https://media.giphy.com/media/G3WOB0xLZkYi68aTdx/giphy-downsized-large.gif",
+    imgUrl: "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-07-13%20%D0%B2%2016.27.44.png?alt=media&token=a3df0f7e-6add-4ee8-b8be-343c6ccd4ab4",
     videoUrl:
         "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/289968063_499759498614685_5878801550668710290_n.mp4?alt=media&token=ac2f2412-785f-4faf-83e5-deb60615a085",
     storieText: "Когда вышел первый день в инстаграм 🤣",
@@ -84,7 +84,7 @@ export const storiesArray = [
     type: "image",
   },
   {
-    imgUrl: "https://media.giphy.com/media/C4ucnljefuhC5aghzB/giphy.gif",
+    imgUrl: "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-07-13%20%D0%B2%2016.27.27.png?alt=media&token=b1ef866d-0d0b-41a8-8459-44b8a999ac6a",
     videoUrl:
         "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/277327494_547961173176993_2701961038558052009_n.mp4?alt=media&token=43a1261c-27b0-446b-8440-a5987efc86ac",
     storieText: "Есть кто живой? Али клали уже на эту сеть?",
@@ -92,7 +92,7 @@ export const storiesArray = [
     type: "video",
   },
   {
-    imgUrl: "https://media.giphy.com/media/IXWwweZyZkxlysRYXz/giphy.gif",
+    imgUrl: "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-07-13%20%D0%B2%2016.26.55.png?alt=media&token=2a8cd9e8-a17c-4389-9cbd-825210bd2a88",
     videoUrl:
         "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/275022616_1631860800496073_2608007563742991405_n.mp4?alt=media&token=c26ba77e-2e4d-47b2-9bb1-f36e707472e2",
     storieText: "Во имя круглой жопы, сильных ног и скорого лета. Аминь ❤️",
@@ -100,7 +100,7 @@ export const storiesArray = [
     type: "video",
   },
   {
-    imgUrl: "https://media.giphy.com/media/HS8NCDcCFqo90Gbfly/giphy.gif",
+    imgUrl: "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-07-13%20%D0%B2%2016.23.12.png?alt=media&token=80fd2e73-a070-4a1c-95d6-9618c7416473",
     videoUrl:
         "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/274534607_3039173166323986_3483948547087580434_n.mp4?alt=media&token=fbda019d-aff4-4ff6-a06d-6cc590236110",
     storieText: "#тинькофф мне сердце 💔 не спрашивайте где я 🤣 у меня много работы - херней страдать ночью",
