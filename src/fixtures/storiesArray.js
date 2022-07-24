@@ -1,12 +1,24 @@
 export const storiesArray = [
   {
+    imgUrl: "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-07-25%20%D0%B2%2002.58.37.png?alt=media&token=3228dea7-da31-4efb-871b-7297bd1d6fdc",
+    videoUrl:
+      "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/294513280_459695832228653_8337648047856058339_n.mp4?alt=media&token=82b59065-1a55-425e-8527-8732b6e3bb97",
+    storieText: "Хочу оставить это здесь 🥰\n" +
+
+    "Достаньте уже самый красивый наряд, обнимите девочку, что смотрит на вас с той стороны зеркала.\n" +
+
+    "Скажите ей: «ТЫ У МЕНЯ САМАЯ КРАСИВАЯ!»",
+    id: "1",
+    type: "video",
+  },
+  {
     imgUrl: "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-07-14%20%D0%B2%2015.49.47.png?alt=media&token=12f6ac8e-1f50-4c8c-a8ed-af495fb31b8a",
     videoUrl:
       "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/293765644_188387723583513_3973609707698141891_n.mp4?alt=media&token=ad3d2e18-b5c0-4d3f-83ab-466a9285a804",
     storieText: "Просто вчера было много пива …\n"+
     "\n"+
     "А сегодня надо работать 😂",
-    id: "1",
+    id: "2",
     type: "video",
   },
   {
@@ -18,7 +30,7 @@ export const storiesArray = [
     "Наконец-то нашла рилс чтоб поздравить мужа с прошедшим ДР!\n 🤣"+
 
     "Любовь моя, я лучшее что случилось в твоей жизни 🤣",
-    id: "2",
+    id: "3",
     type: "video",
   },
   {
@@ -26,7 +38,7 @@ export const storiesArray = [
     videoUrl:
       "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/292257834_2319425031546625_3515026013636582616_n.mp4?alt=media&token=81366cb5-975c-4092-9f02-ba3c5c46fb86",
     storieText: "Видео носит чисто юмористический характер 😂 просто от работы хочется отвлечься",
-    id: "3",
+    id: "4",
     type: "video",
   },
   {
@@ -34,7 +46,7 @@ export const storiesArray = [
     videoUrl:
         "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/290980663_756970012307863_7484683180314509817_n.mp4?alt=media&token=b28822e1-8796-4cab-85cd-b55469c10e45",
     storieText: "Просто женщина каждое утро 😂",
-    id: "4",
+    id: "5",
     type: "video",
   },
   {
@@ -45,7 +57,7 @@ export const storiesArray = [
       "Мы все ждём какого-то лучшего дня чтобы достать из шкафа то самое платье 😍\n" +
       "⠀\n" +
       "Давайте уже радоваться этой жизни) у нас не будет запасной 😍",
-    id: "5",
+    id: "6",
     type: "video",
   },
   {
@@ -53,7 +65,7 @@ export const storiesArray = [
     videoUrl:
         "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/289968063_499759498614685_5878801550668710290_n.mp4?alt=media&token=ac2f2412-785f-4faf-83e5-deb60615a085",
     storieText: "Когда вышел первый день в инстаграм 🤣",
-    id: "6",
+    id: "7",
     type: "video",
   },
   {
@@ -79,7 +91,7 @@ export const storiesArray = [
       "❇️Мы находимся: ул. Балтахинова 17 Г, Блок Г , офис 201 , 2 этаж;\n" +
       "❇️Также доступна Курьерская услуга\n" +
       "Дорогой наш друг, будь всегда опрятным 😊 #podoshva03 #podoshvauu",
-    id: "7",
+    id: "8",
     type: "image",
   },
   {
@@ -102,7 +114,7 @@ export const storiesArray = [
       "Чёт нашло на меня 🥺\n" +
       "⠀\n" +
       "Вы там как? Какой любимый возраст ваших мелких? Мой однозначно СЕЙЧАС (неважно сколько - главное в этот момент)",
-    id: "8",
+    id: "9",
     type: "image",
   },
   {
@@ -110,7 +122,7 @@ export const storiesArray = [
     videoUrl:
         "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/277327494_547961173176993_2701961038558052009_n.mp4?alt=media&token=43a1261c-27b0-446b-8440-a5987efc86ac",
     storieText: "Есть кто живой? Али клали уже на эту сеть?",
-    id: "9",
+    id: "10",
     type: "video",
   },
   {
@@ -118,7 +130,7 @@ export const storiesArray = [
     videoUrl:
         "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/275022616_1631860800496073_2608007563742991405_n.mp4?alt=media&token=c26ba77e-2e4d-47b2-9bb1-f36e707472e2",
     storieText: "Во имя круглой жопы, сильных ног и скорого лета. Аминь ❤️",
-    id: "10",
+    id: "11",
     type: "video",
   },
   {
@@ -126,7 +138,7 @@ export const storiesArray = [
     videoUrl:
         "https://firebasestorage.googleapis.com/v0/b/maru-gram.appspot.com/o/274534607_3039173166323986_3483948547087580434_n.mp4?alt=media&token=fbda019d-aff4-4ff6-a06d-6cc590236110",
     storieText: "#тинькофф мне сердце 💔 не спрашивайте где я 🤣 у меня много работы - херней страдать ночью",
-    id: "11",
+    id: "12",
     type: "video",
   }
   /*{
